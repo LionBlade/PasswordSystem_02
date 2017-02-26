@@ -1,2 +1,1 @@
-# PasswordSystem_02
-This program is the second password string system program.
+This program is the second string project program.
