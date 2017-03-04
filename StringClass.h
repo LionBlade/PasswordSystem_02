@@ -13,11 +13,11 @@
 #ifndef _STRINGCLASS_H_
 #define _STRINGCLASS_H_
 
-// Main class definition for Password.
+// Main class definition for StringClass.
 class StringClass {
   // The data members.
   private:
-    // String variable for password input.
+    // String variable for the string input.
     string str;
 
   // The class functions, the constructor, and the destructor.
